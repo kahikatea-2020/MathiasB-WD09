@@ -15,6 +15,7 @@ const IndexPage = () => (
     <br />
     <img src='/FatBastard.jpg' />
     <p>I had dinner like 15 minutes ago and I could not rember what I had for the life of me. It is like it never happend</p>
+    <p>Hi</p>
   </Layout>
 )
 
