@@ -13,7 +13,7 @@ const IndexPage = () => (
     <p>Math tests be like: Emma had 12 Apples and John took 3, What is the distance between the sun squared in factorials ¯\_(ツ)_/¯</p>
     <Link to='page-2' >Want to see the first few digits of pi?</Link>
     <br />
-    <img src='/FatBastard.jpg' />
+    <img src='/FatBastard.jpg' alt='fat bastard' />
     <p>I had dinner like 15 minutes ago and I could not rember what I had for the life of me. It is like it never happend</p>
     <p>Hi</p>
   </Layout>
